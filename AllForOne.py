@@ -141,7 +141,7 @@ def summarize_templates():
     print(table)
 
 
-file_url = 'https://raw.githubusercontent.com/AggressiveUser/AllForOne/main/PleaseUpdateMe.txt'
+file_url = 'https://raw.githubusercontent.com/M4TxRx/AllForOne/main/PleaseUpdateMe.txt'
 
 clone_repositories(file_url)
 
